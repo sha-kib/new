@@ -55,10 +55,10 @@ logo = """
 \033[1;93m    | (__| | (_) | | | |___) | |   
 \033[1;93m     \___|_|\___/|_| |_|____/|_|   
 \033[1;93m🔥╭╬──────────────────────────────────╬╮🔥
-\033[0;94m  ⚡ ✯ 𝕮𝖗𝖊𝖆𝖙𝖔𝖗 ✪ 𝐊𝐚𝐬𝐡𝐢 𝐆𝐚𝐧𝐠𝐬𝐭𝐞𝐫   ✬⚡
-\033[0;94m  ⚡ ✯ 𝖄𝖔𝖚𝖙𝖚𝖇𝖊 ✪ 𝐆𝐚𝐧𝐠𝐬𝐭𝐞𝐫 𝐓𝐞𝐚𝐜𝐡 ✬⚡
+\033[0;94m  ⚡ ✯ 𝕮𝖗𝖊𝖆𝖙𝖔𝖗 ✪ 🆂🅰🅽🅹🅸🅳   ✬⚡
+\033[0;94m  ⚡ ✯ 𝖄𝖔𝖚R DaD ✪ ＳＡＮＮＹ ✬⚡
 \033[0;97m  ⚡ ✯ 𝕴𝖒 𝖓ø𝖙 𝖗𝖊𝖘𝖕𝖔𝖓𝖘𝖎𝖇𝖑𝖊 𝖋𝖔𝖗 𝖆𝖓𝖞 𝖒𝖎𝖘𝖘 𝖚𝖘𝖊 ✬⚡
-\034[0;92m  ⚡  ❥WhatsApp  Num +923062045786 ツ
+\034[0;92m  ⚡  ❥𝕀 𝔽𝕦𝕔𝕜 𝕐𝕠𝕦𝕣 𝕊𝕪𝕤𝕥𝕖𝕞 ツ
 \033[1;93m🔥╰╬──────────────────────────────────╬╯🔥 """
                                                 
 def tik():
@@ -92,11 +92,11 @@ jalan("\033[1;96m| \__| |_| \/ || | ' || _| | v / ")
 jalan("\033[1;96m \__/|___|\__/ |_|\__||___||_|_\ ") 
 jalan("\033[1;97m INDIAN USER USE ANY PROXY TO CLONE")
 jalan("\033[1;97m WIFI USER USE ANY PROXY TO CLONE")
-jalan("\033[1;93m Welcome to Kashi Gangster")
-jalan("\033[1;96m•◈•──────────•◈•\033[1;96mKashiGangster\033[1;96m•◈•──────────•◈•")
+jalan("\033[1;93m Welcome to SANJID WORLD")
+jalan("\033[1;96m•◈•──────────•◈•\033[1;96mSanjidSanny\033[1;96m•◈•──────────•◈•")
 
-CorrectUsername = "Cloner"
-CorrectPassword = "kashigangster"
+CorrectUsername = "sanjid"
+CorrectPassword = "sanjid"
 
 loop = 'true'
 while (loop == 'true'):
